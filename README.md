@@ -16,11 +16,10 @@
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="23%" align="right"/>
 
 ```yaml
-name    : sakshi vaity
-role    : software tester 🧪
-based   : india 🇮🇳
-hobbies : anime • gaming • cats
-vibes   : soft but make it chaotic
+name    : sakshi vaity ✨
+role    : software tester 🔎
+hobbies : anime • gaming • drawing 
+vibes   : soft but make it chaotic (✿◡‿◡)
 ```
 
 
