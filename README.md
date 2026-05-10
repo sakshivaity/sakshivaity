@@ -2,6 +2,11 @@
  <h1 align="center">
   <span style="color:#87CEEB;">Hi, I'm Sakshi Vaity</span>
 </h1>
+<!-- Typing Title -->
+<div align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Sakshi+Vaity;Software+Tester;QA+Enthusiast" alt="Typing SVG" />
+</div>
+ 
   # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆ 
   ### software tester • anime lover • cat person 🌸 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
@@ -493,6 +498,16 @@ will not be recommending to other cats.
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+
+
+
+
+
+
+
+
+
 
 
 
