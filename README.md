@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">
-  <span style="color:#6C63FF;">Hi, I'm Sakshi Vaity</span>
+  <span style="color:#87CEEB;">Hi, I'm Sakshi Vaity</span>
 </h1>
   # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆ 
   ### software tester • anime lover • cat person 🌸 
