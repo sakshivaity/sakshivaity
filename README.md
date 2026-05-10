@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-anime.gif" width="100%"/>
+<img src="https://64.media.tumblr.com/6d4d0d5b68a1f7b1b4eec4d8efb26f17/tumblr_o8l5xr4J9A1v1y2ojo1_500.gif" width="100%"/>
 
-# ☾⋆⁺₊✧ Sakshi Vaity ✧₊⁺⋆☽
+</div>
 
-### 🌌 software tester • anime lover • cat energy • cybersec learner 🌌
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=AEDFF7&center=true&vCenter=true&width=600&lines=ೃ⁀➷+manual+testing+girlie;ೃ⁀➷+python+%7C+java+developer;ೃ⁀➷+powered+by+cats+and+music;ೃ⁀➷+living+in+my+anime+universe"/>
+# ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+
+# sakshi vaity
+
+### 🩵 sleepy tester . cat collector . anime soul . 🌙
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester+%E2%9C%A6;cybersecurity+learner+%E2%9C%A6;powered+by+cats+and+music+%E2%9C%A6;living+inside+an+anime+opening+%E2%9C%A6"/>
 
 </div>
 
@@ -14,31 +20,18 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/39/16/76/391676fd8f391bf7c58f2c13c6e72b73.gif" width="250"/>
+<img src="https://media.tenor.com/qz7oKH9hX7IAAAAC/anime-cat.gif" width="220"/>
 
 </div>
 
-# 🌠 about me
-
-```yaml
-name: Sakshi Vaity
-located_in: Mumbai, India
-current_focus: Software Testing & Cybersecurity
-hobbies:
-  - anime
-  - cats
-  - gaming
-  - drawing
-  - aesthetic designing
-````
-
----
-
 <div align="center">
 
-# 💫 tech universe 💫
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,javascript,react,nodejs,git,github,vscode"/>
+ੈ✩‧₊˚  
+💭 currently debugging life  
+🐈 black cats are my lucky charm  
+🌌 mentally somewhere in a galaxy anime scene  
+☕ coding + music + midnight vibes  
+ੈ✩‧₊˚
 
 </div>
 
@@ -46,11 +39,9 @@ hobbies:
 
 <div align="center">
 
-# 🌌 github cosmos 🌌
+# ⋆｡°✩ tech stack ✩°｡⋆
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshivaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,git,github,vscode"/>
 
 </div>
 
@@ -58,7 +49,27 @@ hobbies:
 
 <div align="center">
 
-# 🐾 contribution snake 🐾
+# ☾ github universe ☽
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshivaity&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivaity&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/2f/4d/67/2f4d67dc5f4b5c73dc0b0b3b4f7f0f1e.gif" width="350"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 contribution snake
 
 ![snake gif](https://github.com/sakshivaity/sakshivaity/blob/output/github-contribution-grid-snake.svg)
 
@@ -68,23 +79,10 @@ hobbies:
 
 <div align="center">
 
-# ☄️ currently learning ☄️
-
-🩵 API Testing
-💗 Cybersecurity
-💚 Digital Forensics
-🤍 Automation Testing
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸 connect with me 🌸
+# ✧ socials ✧
 
 <a href="https://github.com/sakshivaity">
-<img src="https://img.shields.io/badge/github-c5f6fa?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/github-bde0fe?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sakshi-vaity">
@@ -101,9 +99,9 @@ hobbies:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:bde0fe,100:caffbf&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,25:bde0fe,50:caffbf,100:ffffff&height=180&section=footer"/>
 
-### ⋆｡𖦹°‧★ thanks for visiting my galaxy ★‧°𖦹｡⋆
+### ✦ thanks for entering my little universe ✦
 
 </div>
 
