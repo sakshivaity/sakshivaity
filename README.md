@@ -8,6 +8,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
 </div>
 
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catjump.gif" width="130px" />
+</td>
+
+<td width="50%" align="center">
+
+### ★ɦ꒰ᐢ⸝⸝ sakshi vaity ᐢ⸝⸝꒱ɦ★
+
+`software tester • anime lover • cat person 🌸`
+
+<br/>
+
+```yaml
+name    : sakshi vaity
+role    : software tester 🧪
+based   : india 🇮🇳
+hobbies : anime • gaming • cats
+vibes   : soft but make it chaotic
+```
+
+</td>
+
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="130px" />
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <table> <tr> <td width="50%" valign="middle"> <img src="./assets/catbanner.gif" width="220"/> # ⋆˚✿˖° sakshi vaity °˖✿˚⋆ ### software tester • anime lover • cat person 🌸 cat lover 🐾 </td> <td width="50%" align="right"> <img src="./assets/fishhead.png" width="220"/> </td> </tr> </table>
 
