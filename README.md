@@ -1,13 +1,10 @@
 <div>
-  
-//<p align="left"> <img src="./assets/catbanner.gif" width="100%"/> </p>
-//<p align="right"> <img src="./assets/fishhead.png" width="250"/> </p>
-  
+
 # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆
 
 ### software tester • anime lover • cat person 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester;cybersecurity+learner;cat+lover;living+inside+an+anime+scene"/>
+<img src="https://readme-typing-svg.herokuapp.com font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester;cybersecurity+learner;cat+lover;living+inside+an+anime+scene"/>
 
 </div>
 
