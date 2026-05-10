@@ -1,5 +1,7 @@
 <div align="center">
- <img src="./assets/name.png" width="100000"/> 
+ <h1 align="center">
+  <span style="color:#6C63FF;">Hi, I'm Sakshi Vaity</span>
+</h1>
   # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆ 
   ### software tester • anime lover • cat person 🌸 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
