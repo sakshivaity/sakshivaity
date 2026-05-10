@@ -36,9 +36,3 @@ vibes:       soft but make it chaotic ✨
 </td>
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/colorstars.jpg" width="100%" height="60px" style="object-fit:cover;" />
-
-</div>
