@@ -28,15 +28,6 @@ company:     TheAdroit, Navi Mumbai
 experience:  9 months (Intern → Full-time) 🚀
 education:   BE Computer Engineering — Mumbai University 2025
 certified:   ISTQB® CTFL v4.0 🏅
-
-testing:
-  - manual • functional • regression
-  - smoke • sanity • UI • cross-browser
-  - basic API testing
-
-tools:       jira • asana • postman • lambdatest
-concepts:    sdlc • stlc • agile • dbms
-
 bugs found:  150-200+ and counting 🐛
 hobbies:     anime • gaming • cats
 vibes:       soft but make it chaotic ✨
