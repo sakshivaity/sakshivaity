@@ -21,12 +21,6 @@
 
 <td width="50%" align="center">
 
-### ★ɦ꒰ᐢ⸝⸝ sakshi vaity ᐢ⸝⸝꒱ɦ★
-
-`software tester • anime lover • cat person 🌸`
-
-<br/>
-
 ```yaml
 name    : sakshi vaity
 role    : software tester 🧪
