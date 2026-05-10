@@ -40,75 +40,195 @@
 </tr>
 </table>
 ```
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=89CFF0&height=150&section=header&text=SAKSHI_SYSTEM_V3.0&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+```
+ ／ﾌﾌ　　　 ム｀ヽ
+/ ノ)　　　∧∧ﾉ ヽ
+/ |　(•ω• )ノ⌒
+/ ノＶ￣Ｙ∨     bug? what bug? ✨
+```
+
 </div>
 
-## 🧬 Diagnostic Report: [Software Tester]
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <h3>🐾 System Attributes</h3>
-      <ul>
-        <li><b>Environment:</b> Quality Assurance / SDET</li>
-        <li><b>Power-Up:</b> ISTQB Certified 🛡️</li>
-        <li><b>Special Skill:</b> Spotting bugs faster than a cat pounces a laser pointer 🐈</li>
-        <li><b>Main Language:</b> Java / Selenium</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5NjMwaG0zdXp5MDBtZzFzeGd4eDJ5Z3V6eHh4eHh4eHh4eHgmdm89MSZzPWNhdA/3o72EX5QZ9N9d51dqo/giphy.gif" width="200" style="border-radius: 15px; border: 3px solid #FFB7C5;"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎮 Loadout (Interests & Aesthetics)
-
+<!-- Animated Typing Title -->
 <div align="center">
-  <kbd><img src="https://img.shields.io/badge/AESTHETIC-BABY_BLUE-89CFF0?style=for-the-badge&logoColor=white" /></kbd>
-  <kbd><img src="https://img.shields.io/badge/VIBE-BABY_PINK-FFB7C5?style=for-the-badge&logoColor=white" /></kbd>
-  <kbd><img src="https://img.shields.io/badge/ENERGY-BABY_GREEN-B2D3C2?style=for-the-badge&logoColor=white" /></kbd>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&pause=1000&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B8+hi%2C+i'm+a+bug+hunter+%F0%9F%90+;+professional+chaos+tester+%F0%9F%A7%AA;+keeper+of+cats+%26+controller+collector+%F0%9F%8E%AE;+living+on+pink+clouds+%26+test+cases+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
-> **"If it's an if-else ladder, I'll climb it. If it's a switch statement, I'll flip it."** — *Sakshi's Testing Logic*
-
----
-
-### ⛩️ Anime & Gaming Feed
-<table align="center">
-  <tr>
-    <td><b>Gaming</b></td>
-    <td>Valorant (Competitive) | PS5 Enthusiast 🎮</td>
-  </tr>
-  <tr>
-    <td><b>Anime/VTuber</b></td>
-    <td>ChroNoiR (Kuzuha & Kanae) | Marin Kitagawa 🌸</td>
-  </tr>
-  <tr>
-    <td><b>Current Status</b></td>
-    <td>Hunting bugs in Navi Mumbai 📍</td>
-  </tr>
-</table>
-
----
-
-### 📈 Real-Time Test Coverage
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&bg_color=FDFCF0&title_color=FFB7C5&icon_color=89CFF0&text_color=555" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&bg_color=FDFCF0&title_color=B2D3C2&text_color=555" width="300" />
-</div>
-
----
-
+<!-- Pastel Divider -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM%20PINGED&color=B2D3C2&style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=80&section=header&fontSize=0" />
 </p>
 
+---
+
+<!-- About Me Card -->
+<table align="center">
+<tr>
+<td width="55%">
+
+### 🌸 `whoami`
+
+```yaml
+name:       [your name here]
+role:       Software Tester 🧪
+status:     Finding bugs since day one 🐛
+mood:       Soft + chaotic energy ✨
+
+currently:
+  - breaking things (professionally)
+  - watching anime at 2am 🌙
+  - being owned by my cat 🐈
+  - losing to final boss 🎮
+
+aesthetic:  baby blue • baby pink
+            baby green • white • black 🎀
+```
+
+</td>
+<td width="45%" align="center">
+
+```
+    ╭──────────────╮
+    │  (=^･ω･^=)  │
+    │   my cat     │
+    │   judging    │
+    │   my code    │
+    ╰──────────────╯
+         |
+    ╭──────────────╮
+    │ test passed! │
+    │  (she lied)  │
+    ╰──────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Skills Section -->
+## 🧪 my testing toolkit
+
 <div align="center">
-  <img src="https://img.shields.io/badge/0_Critical_Bugs_Found-Black?style=for-the-badge&logo=probot&logoColor=FFB7C5" />
+
+![Selenium](https://img.shields.io/badge/Selenium-AED6F1?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F9BCD2?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-B2DFDB?style=for-the-badge&logo=jira&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-AED6F1?style=for-the-badge&logo=cypress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F9BCD2?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B2DFDB?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-AED6F1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
+
+---
+
+<!-- Testing Philosophy -->
+## 🌷 my testing philosophy
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│   "if it can break, i will find a way to break it" │
+│                                                     │
+│     🐾 step 1 — read the requirements              │
+│     🐾 step 2 — break the requirements             │
+│     🐾 step 3 — report 47 bugs before lunch        │
+│     🐾 step 4 — eat snacks & repeat                │
+│                                                     │
+│              ~ art of QA, probably ~                │
+╰─────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<!-- Fun Facts -->
+## 🎀 lore about me
+
+<div align="center">
+
+| 🐱 cat lore | 🎮 gamer lore | 🌸 anime lore |
+|:---:|:---:|:---:|
+| my cat walks on my keyboard and files better bug reports than some devs | i pause games to test the edge cases | i cry every season finale without fail |
+| she reviews all my test cases | controller grip = stress reliever | my watchlist is longer than my bug log |
+| named my first test suite after her | yes i have a gaming chair | isekai protagonist energy |
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 my stats (the devs wish were this clean)
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&bg_color=FFF0F5&title_color=AED6F1&icon_color=F9BCD2&text_color=333333&border_color=F9BCD2&border_radius=16" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&bg_color=F0FFF4&title_color=AED6F1&text_color=333333&border_color=B2DFDB&border_radius=16" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=rose_pine&background=FFF5FB&ring=AED6F1&fire=F9BCD2&currStreakLabel=B2DFDB&border=F9BCD2&border_radius=16" />
+</div>
+
+---
+
+<!-- Anime / Currently Watching -->
+## 📺 current obsessions
+
+```
+🌸 currently watching  →  [your current anime]
+🎮 currently playing   →  [your current game]
+📚 currently reading   →  [manga / light novel]
+😻 current cat mood    →  judging me from the top shelf
+```
+
+---
+
+<!-- Snake Game / Activity Graph -->
+## 🐍 watch the snake eat my contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+```
+(=^‥^=)  thanks for visiting my little corner of the internet  (=^‥^=)
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-AED6F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/twitter-F9BCD2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/email-B2DFDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=AED6F1&style=for-the-badge&label=visitors+🐾)
+
+<br/>
+
+*made with 🌸 cat hair ☕ matcha and 🧪 infinite test cases*
+
+</div>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=80&section=footer&fontSize=0" />
+</p>
