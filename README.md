@@ -15,7 +15,7 @@
 <tr style="border:none;">
 
 <td width="20%" align="center" style="border:none;">
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catjump.gif" width="150px" />
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="150px" />
 </td>
 
 <td width="60%" align="center" style="border:none;"> 
