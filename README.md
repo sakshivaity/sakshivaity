@@ -1,12 +1,13 @@
+````md
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8f/71/6d/8f716d8c0c9d3c5e7d0d6b6d5e5f4d8f.gif" width="180"/>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-anime.gif" width="100%"/>
 
-# ₍^. .^₎⟆ Sakshi Vaity
+# ☾⋆⁺₊✧ Sakshi Vaity ✧₊⁺⋆☽
 
-### ✿ software tester ✿ cat person ✿ cybersec learner ✿
+### 🌌 software tester • anime lover • cat energy • cybersec learner 🌌
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Short+Stack&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=%E2%9C%A7+powered+by+coffee+and+cats+%E2%9C%A7;%F0%9F%90%BE+manual+testing+girlie+%F0%9F%90%BE;%F0%9F%92%BB+python+%7C+java+%7C+qa+testing;%F0%9F%8C%B8+welcome+to+my+little+github+corner+%F0%9F%8C%B8"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=AEDFF7&center=true&vCenter=true&width=600&lines=ೃ⁀➷+manual+testing+girlie;ೃ⁀➷+python+%7C+java+developer;ೃ⁀➷+powered+by+cats+and+music;ೃ⁀➷+living+in+my+anime+universe"/>
 
 </div>
 
@@ -14,21 +15,29 @@
 
 <div align="center">
 
-## 🐾 about me
-
-🎀 computer engineering graduate  
-🐱 professionally obsessed with cats  
-💻 currently exploring software testing & cybersecurity  
-🌸 likes cute aesthetics, gaming & drawing  
-☕ survives on caffeine and debugging  
+<img src="https://i.pinimg.com/originals/39/16/76/391676fd8f391bf7c58f2c13c6e72b73.gif" width="250"/>
 
 </div>
+
+# 🌠 about me
+
+```yaml
+name: Sakshi Vaity
+located_in: Mumbai, India
+current_focus: Software Testing & Cybersecurity
+hobbies:
+  - anime
+  - cats
+  - gaming
+  - drawing
+  - aesthetic designing
+````
 
 ---
 
 <div align="center">
 
-## ✨ tech stack ✨
+# 💫 tech universe 💫
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,javascript,react,nodejs,git,github,vscode"/>
 
@@ -38,21 +47,11 @@
 
 <div align="center">
 
-## 🌷 github stats 🌷
+# 🌌 github cosmos 🌌
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshivaity&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshivaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivaity&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐈 streak stats 🐈
-
-<img src="https://streak-stats.demolab.com?user=sakshivaity&theme=rose-pine&hide_border=true&background=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -60,7 +59,7 @@
 
 <div align="center">
 
-## 🐍 little snake eating my contributions 🐍
+# 🐾 contribution snake 🐾
 
 ![snake gif](https://github.com/sakshivaity/sakshivaity/blob/output/github-contribution-grid-snake.svg)
 
@@ -70,12 +69,12 @@
 
 <div align="center">
 
-## 🎀 currently learning 🎀
+# ☄️ currently learning ☄️
 
-🐾 api testing  
-🐾 cybersecurity basics  
-🐾 digital forensics  
-🐾 automation testing  
+🩵 API Testing
+💗 Cybersecurity
+💚 Digital Forensics
+🤍 Automation Testing
 
 </div>
 
@@ -83,18 +82,18 @@
 
 <div align="center">
 
-## 🌸 connect with me 🌸
+# 🌸 connect with me 🌸
 
 <a href="https://github.com/sakshivaity">
-<img src="https://img.shields.io/badge/github-f8bbd0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/github-c5f6fa?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sakshi-vaity">
-<img src="https://img.shields.io/badge/linkedin-f8bbd0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/linkedin-ffc8dd?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:sakshivaity273@gmail.com">
-<img src="https://img.shields.io/badge/gmail-f8bbd0?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/gmail-caffbf?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
@@ -103,8 +102,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:bde0fe,100:caffbf&height=180&section=footer"/>
 
-### ✿ thanks for visiting my profile ✿
+### ⋆｡𖦹°‧★ thanks for visiting my galaxy ★‧°𖦹｡⋆
 
 </div>
+```
