@@ -1,7 +1,5 @@
 <div align="center">
- <h2 style="font-family: 'Edu AU VIC WA NT Guides', cursive;">
-Hi, I'm Sakshi Vaity 👩‍💻
-</h2>
+ <img src="./assets/fishhead.png" width="220"/> 
   # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆ 
   ### software tester • anime lover • cat person 🌸 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
