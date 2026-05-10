@@ -9,6 +9,10 @@
   <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/>
   <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/>
   <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/>  
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/> 
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/> 
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/> 
+
 </div>
 
 <!-- About Me -->
