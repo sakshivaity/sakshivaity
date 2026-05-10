@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=99999&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Sakshi+Vaity...%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
  
   ### ⋆𐙚₊˚⊹♡ > Chaotic introvert who finds bugs for fun and calls it a career 🐛✨ ♡⊹˚₊𐙚⋆ 
- <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/stargalaxy.gif" width="50%"/>
+ <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bubble.gif" width="50%"/>
   #### software tester • anime lover • cat person  
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
 </div>
