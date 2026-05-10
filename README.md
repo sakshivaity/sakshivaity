@@ -1,1 +1,44 @@
+```md id="8p6ffh"
+<div align="center">
+
+<img src="./assets/banner.gif" width="100%"/>
+
+# ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆
+
+### software tester • anime lover • cat person 🌸
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester;cybersecurity+learner;cat+lover;living+inside+an+anime+scene"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌸 about me
+
+- 🎀 computer engineering graduate
+- 🐈 cat obsessed
+- 💻 software testing
+- 🌌 anime + galaxy aesthetic
+- ☕ coffee addict
+
+<img src="./assets/sleepycat.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 💫 tech stack
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,javascript,react,git,github,vscode"/>
+
+</td>
+
+</tr>
+</table>
+```
 
