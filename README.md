@@ -11,6 +11,8 @@
 
 </div>
 
+<table> <tr> <td width="50%" align="left"> <img src="./assets/catbanner.gif" width="220"/> # ⋆˚✿˖° sakshi vaity °˖✿˚⋆ ### software tester • anime lover • cat person 🌸 cat lover 🐾 </td> <td width="50%" align="right"> <img src="./assets/fishhead.png" width="220"/> </td> </tr> </table>
+
 ---
 
 <table>
