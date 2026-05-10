@@ -15,22 +15,11 @@
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="30%" align="left"/>
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="23%" align="right"/>
 
-```yaml
-name    : sakshi vaity ✨
-role    : software tester 🔎
-hobbies : anime • gaming • drawing 
-vibes   : soft but make it chaotic (✿◡‿◡)
-```
-
-| 🌸 `whoami` |
-|---|
-| <pre lang="yaml">name:       sakshi vaity<br>role:       software tester 🧪<br>based:      india 🇮🇳<br>hobbies:    anime • gaming • cats<br>vibes:      soft but make it chaotic ✨<br><br>currently:<br>  - breaking things (professionally) 💻<br>  - watching anime at 2am 🌙<br>  - being owned by my cat 🐈<br>  - losing to the final boss 🎮</pre> |
-
 <table align="center">
 <tr>
 <td width="55%">
 
-### 🌸 `whoami`
+###  `About Me` ᓚᘏᗢ
 
 ```yaml
 name:       [your name here]
