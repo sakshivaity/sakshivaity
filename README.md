@@ -1,7 +1,3 @@
-<div align="center">
- <h1 align="center">
-  <span style="color:#87CEEB;">Hi, I'm Sakshi Vaity</span>
-</h1>
 <!-- Typing Title -->
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Sakshi+Vaity;Software+Tester;QA+Enthusiast" alt="Typing SVG" />
