@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-anime.gif" width="100%"/>
@@ -107,4 +106,4 @@ hobbies:
 ### ⋆｡𖦹°‧★ thanks for visiting my galaxy ★‧°𖦹｡⋆
 
 </div>
-```
+
