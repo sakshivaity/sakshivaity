@@ -13,9 +13,9 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="30%" align="left"/>
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="50%" align="right"/>
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="23%" align="right"/>
 
-<table align="center">
+<table align="left">
 <tr>
 <td width="55%">
 
