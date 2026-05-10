@@ -11,37 +11,20 @@
 <!-- About Me -->
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-<tr style="border:none;">
 
-<td width="20%" align="center" style="border:none;">
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="150px" />
-</td>
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catjump.gif" width="22%" align="left"/>
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="18%" align="right"/>
 
-<td width="60%" align="center" style="border:none;"> 
+**★ sakshi vaity ★**
 
-<br/>
-
-```yaml
+`software tester • anime lover • cat person 🌸`
 name    : sakshi vaity
-role    : software tester 🧪
-based   : india 🇮🇳
+role    : software tester
+based   : india
 hobbies : anime • gaming • cats
-vibes   : soft but make it chaotic
-```
+vibes   : soft but chaotic
 
-</td>
-
-<td width="20%" align="center" style="border:none;">
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="150px" />
-</td>
-
-</tr>
-</table>
 </div>
-
-
-
 
 
 <table> <tr> <td width="50%" valign="middle"> <img src="./assets/catbanner.gif" width="220"/> # ⋆˚✿˖° sakshi vaity °˖✿˚⋆ ### software tester • anime lover • cat person 🌸 cat lover 🐾 </td> <td width="50%" align="right"> <img src="./assets/fishhead.png" width="220"/> </td> </tr> </table>
