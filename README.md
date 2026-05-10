@@ -5,13 +5,13 @@
   ### ⋆𐙚₊˚⊹♡ > Chaotic introvert who finds bugs for fun and calls it a career ♡⊹˚₊𐙚⋆ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
 <br>
-  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="5%"/> 
-  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="10%"/>
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/> 
   <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="15%"/>
-  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/>
-  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="15%"/>  
-  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="10%"/> 
- <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="5%"/> 
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="10%"/>
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="5%"/>
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="10%"/>  
+  <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="15%"/> 
+ <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/bitch.png" width="20%"/> 
 
 </div>
 
