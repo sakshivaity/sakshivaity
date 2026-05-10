@@ -1,4 +1,3 @@
-```md id="8p6ffh"
 <div align="center">
 
 <img src="./assets/banner.gif" width="100%"/>
