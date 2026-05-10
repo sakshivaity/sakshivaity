@@ -1,7 +1,7 @@
 <div>
   
 <p align="left"> <img src="./assets/catbanner.gif" width="100%"/> </p>
-<p align="right"> <img src="./assets/fishhead.gif" width="250"/> </p>
+<p align="right"> <img src="./assets/fishhead.png" width="250"/> </p>
   
 # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆
 
