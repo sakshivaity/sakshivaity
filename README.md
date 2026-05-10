@@ -15,14 +15,14 @@
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="30%" align="left"/>
 <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="21%" align="right"/>
 
-**★ sakshi vaity ★**
-
-`software tester • anime lover • cat person 🌸`
+```yaml
 name    : sakshi vaity
-role    : software tester
-based   : india
+role    : software tester 🧪
+based   : india 🇮🇳
 hobbies : anime • gaming • cats
-vibes   : soft but chaotic
+vibes   : soft but make it chaotic
+```
+
 
 </div>
 
