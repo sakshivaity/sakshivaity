@@ -8,13 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
 </div>
 
+<!-- About Me -->
+
 <br/>
 
 <table align="center">
 <tr>
 
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catjump.gif" width="130px" />
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="130px" />
 </td>
 
 <td width="50%" align="center">
@@ -41,6 +43,8 @@ vibes   : soft but make it chaotic
 
 </tr>
 </table>
+
+<br/>
 
 <br/>
 
