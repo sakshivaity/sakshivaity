@@ -3,7 +3,6 @@
   ### software tester • anime lover • cat person 🌸 
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester;cybersecurity+learner;cat+lover;living+inside+an+anime+scene"/> 
 </div>
-<div align="center"> <img src="./assets/banner.gif" width="100%"/> # ⋆𐙚₊˚⊹♡ sakshi vaity ♡⊹˚₊𐙚⋆ ### software tester • anime lover • cat person 🌸 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=software+tester;cybersecurity+learner;cat+lover;living+inside+an+anime+scene"/> </div>
 
 ---
 
