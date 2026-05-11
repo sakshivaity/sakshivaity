@@ -37,3 +37,20 @@ vibes:       soft but make it chaotic ✨
 </div>
 
 <img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=1" width="100%"/>
+<br>
+# ☾ BUG HUNTER LOADOUT
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,mysql,github,vscode" />
+
+</p>
+
+```yaml
+weapon:        Postman ⚔️
+bug scanner:   Chrome DevTools 🔍
+tracking map:  Jira 🗺️
+debug potion:  Console Logs 🧪
+database key:  MySQL 🗃️
+companion:     GitHub Desktop 🐾
+```
