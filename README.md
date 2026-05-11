@@ -40,69 +40,6 @@ vibes:       soft but make it chaotic ✨
 <br>
 
 
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=Sakshi%20Vaity&fontSize=55&fontColor=AED6F1&animation=fadeIn&color=0:0D1117,100:1B263B)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=B7D7FF&center=true&vCenter=true&width=700&lines=Initializing+test+environment...;Collecting+bugs+like+pokemon...;Surviving+production+deployments...;Dreaming+in+code+testing+in+reality..." />
-
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=1" width="100%"/>
-
-</div>
-
----
-
-# ☾ PLAYER PROFILE
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-```yaml
-name:        Sakshi Vaity
-class:       Software Tester 🔎
-guild:       TheAdroit
-rank:        Intern → Full-time
-speciality:  UI & Functional Testing
-xp earned:   200+ bugs discovered 🐞
-location:    Navi Mumbai 🌙
-companion:   orange cat 🐱
-status:      debugging reality
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/cat-computer.gif" width="220"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ☾ TEST TERMINAL
-
-```bash
-sakshi@testlab:~$ initialize_session
-
-✓ manual testing loaded
-✓ regression suite activated
-✓ smoke tests completed
-✓ sanity checks passed
-✓ cross-browser chaos detected
-✓ production fear unlocked
-
-sakshi@testlab:~$ current_mood
-
-☕ one more coffee might fix it
-```
-
----
-
 # ☾ BUG HUNTER LOADOUT
 
 <div align="center">
