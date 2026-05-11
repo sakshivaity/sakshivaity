@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="22%" align="left"/>
+<img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/catbanner.gif" width="30%" align="left"/>
 
 <table align="left">
 <tr>
