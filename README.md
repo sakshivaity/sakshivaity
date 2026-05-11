@@ -38,22 +38,8 @@ vibes:       soft but make it chaotic ✨
 
 <img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=1" width="100%"/>
 <br>
-# ☾ BUG HUNTER LOADOUT
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=postman,mysql,github,vscode" />
-
-</p>
-
-```yaml
-weapon:        Postman ⚔️
-bug scanner:   Chrome DevTools 🔍
-tracking map:  Jira 🗺️
-debug potion:  Console Logs 🧪
-database key:  MySQL 🗃️
-companion:     GitHub Desktop 🐾
-```
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=Sakshi%20Vaity&fontSize=55&fontColor=AED6F1&animation=fadeIn&color=0:0D1117,100:1B263B)
