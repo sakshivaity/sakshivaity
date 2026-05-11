@@ -35,4 +35,5 @@ vibes:       soft but make it chaotic ✨
 
 </td>
 
+<td width="35%" align="center" valign="middle"> <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="100%"/> </td> </tr> </table> 
 </div>
