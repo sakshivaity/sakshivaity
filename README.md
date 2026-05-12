@@ -1,6 +1,6 @@
 <!-- Typing Title -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=99999&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Sakshi+Vaity...%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=99999&color=AED6F1&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Sakshi+Vaity...%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
  <br>
  # ⋆𐙚₊˚⊹♡ > Chaotic introvert who finds bugs for fun and calls it a career ♡⊹˚₊𐙚⋆ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&pause=1000&color=F8C8DC&center=true&vCenter=true&width=500&lines=Dreaming+in+code....;Testing+in+reality...+🐾"/> 
