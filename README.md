@@ -151,3 +151,270 @@ Production Fear    ██████████ 100%
 <img src="https://media.tenor.com/Lyput9vSprYAAAAi/computer-cat.gif" width="120"/>
 
 </div>
+
+
+
+
+You, Now
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0b1026,25:1e3a8a,60:7c3aed,100:f472b6&text=Sakshi%20Vaity&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Tester%20•%20Cybersecurity%20Learner%20•%20Cat%20Lover&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F9A8D4&center=true&vCenter=true&width=700&lines=Dreaming+in+code+%F0%9F%8C%99;Testing+in+reality+%F0%9F%92%BB;Cybersecurity+Learner+%F0%9F%94%90;Anime+%2B+Gaming+%2B+Cats+%F0%9F%90%BE"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="65%">
+
+# 🌸 About Me
+
+```yaml
+name: Sakshi Vaity
+role: Software Tester
+location: Mumbai, India
+
+education:
+  - BE Computer Engineering
+
+interests:
+  - Software Testing
+  - Cybersecurity
+  - Digital Forensics
+  - Automation Testing
+
+likes:
+  - Cats 🐾
+  - Gaming 🎮
+  - Anime 🌸
+  - Galaxy aesthetics 🌌
+  - Sea beach nights 🌊
+
+current_goal:
+  - Becoming QA Automation Engineer
+```
+
+</td>
+
+<td width="35%">
+
+<div align="center">
+
+<img width="250" src="https://media.tenor.com/mCiM7CmGGI4AAAAd/cat-computer.gif"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sakshivaitty&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,git,github,vscode,linux,figma,postman"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshivaitty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+<td width="50%">
+
+# 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshivaitty&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌌 Top Languages
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivaitty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🌙 Currently Learning
+
+<table>
+<tr>
+
+<td>
+
+🌸 API Testing  
+🌸 Automation Testing  
+🌸 Selenium WebDriver  
+🌸 Cybersecurity Basics  
+🌸 Digital Forensics  
+
+</td>
+
+<td>
+
+🟦🟦🟦🟦⬜  
+🟦🟦🟦⬜⬜  
+🟦🟦🟦⬜⬜  
+🟦🟦🟦🟦⬜  
+🟦🟦⬜⬜⬜  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📧 Email Spoof Detector
+
+Detecting spoofed emails using Python & Machine Learning.
+
+⭐ Python  
+⭐ Cybersecurity  
+
+</td>
+
+<td width="50%">
+
+## 🔍 QR & PDF Analyzer
+
+Extracting and analyzing QR & PDF data.
+
+⭐ Python  
+⭐ Automation  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🔐 Forensic Toolkit
+
+Collection of digital forensic notes & tools.
+
+⭐ Linux  
+⭐ Security  
+
+</td>
+
+<td width="50%">
+
+## 🐾 Bug Tracker
+
+Simple bug tracking system for testers.
+
+⭐ HTML  
+⭐ CSS  
+⭐ JavaScript  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎮 Gaming & Vibes
+
+<div align="center">
+
+```txt
+🎮 Valorant
+🌊 Night beach vibes
+🎧 Lofi music
+🐈 Coding with cats
+🌌 Galaxy aesthetic
+```
+
+</div>
+
+---
+
+# 🎵 Spotify
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sakshi-vaity">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sakshivaitty273@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sakshivaitty">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Thanks for visiting my profile 🌸
+
+<img width="220" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f472b6,100:1e3a8a"/>
+
+</div>
+
