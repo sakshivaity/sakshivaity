@@ -35,19 +35,5 @@ vibes:       soft but make it chaotic ✨
 
 <td width="35%" align="center" valign="middle"> <img src="https://raw.githubusercontent.com/sakshivaity/sakshivaity/main/assets/fishhead.png" width="100%"/> </td> </tr> </table> 
 </div>
-
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=1" width="100%"/>
-<div align="center">
-
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=11" width="90%"/>
-
-<br>
-
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=12" width="70%"/>
-
-</div>
-<br>
 <img src="https://render.gitanimals.org/farms/sakshivaity" width="100%"/>
 
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=22" width="49%"/>
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=24" width="49%"/>
