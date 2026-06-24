@@ -40,7 +40,7 @@ vibes:       soft but make it chaotic ✨
 <img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=22&contribute-display=false" width="100%"/>
 
 <a href="https://github.com/sakshivaity">
-  <img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=22" width="100%" style="margin-top:-30px"/>
+  <img src="https://render.gitanimals.org/lines/sakshivaity" width="100%" style="margin-top:-30px"/>
 </a>
 
 
