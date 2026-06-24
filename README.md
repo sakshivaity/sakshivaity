@@ -49,3 +49,5 @@ vibes:       soft but make it chaotic ✨
 <br>
 <img src="https://render.gitanimals.org/farms/sakshivaity" width="100%"/>
 
+<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=22" width="49%"/>
+<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=24" width="49%"/>
