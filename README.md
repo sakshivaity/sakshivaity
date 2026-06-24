@@ -37,11 +37,8 @@ vibes:       soft but make it chaotic ✨
 </div>
 <img src="https://render.gitanimals.org/farms/sakshivaity" width="100%"/>
 
-<img src="https://render.gitanimals.org/lines/sakshivaity?pet-id=22&contribute-display=false" width="100%"/>
+<img src="https://render.gitanimals.org/lines/sakshivaity&contribute-display=false" width="100%"/>
 
-<a href="https://github.com/sakshivaity">
-  <img src="https://render.gitanimals.org/lines/sakshivaity" width="100%" style="margin-top:-30px"/>
-</a>
 
 
 <img src="https://render.gitanimals.org/farms/sakshivaity" width="100%"/>
