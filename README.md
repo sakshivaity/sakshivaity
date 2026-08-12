@@ -24,7 +24,7 @@
 name:        Sakshi Vaity
 role:        Software Tester 🔎
 company:     TheAdroit, Navi Mumbai
-experience:  10 months (Intern → Full-time) 🚀
+experience:  1 Year🚀
 education:   BE Computer Engineering — Mumbai University 2025
 certified:   ISTQB® CTFL v4.0 🏅
 bugs found:  150-200+ and counting 🐛
